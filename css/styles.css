@@ -114,6 +114,13 @@
 
   }
 
+  .bc3-img {
+  width: 40%;
+  height: 40%;
+    float: center;
+
+  }
+
   .logo {
   border-radius: 5px solid #555;
   width: 160px;
