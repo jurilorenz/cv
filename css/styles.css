@@ -29,9 +29,9 @@
   }
 
   hr {
-    border: dotted #EAF6F6 6px;
+    border: solid #EAF6F6 2px;
     border-bottom: none;
-    width: 4%;
+    width: 40%;
     margin: 100px auto;
     }
 
