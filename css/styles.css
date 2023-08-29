@@ -100,11 +100,22 @@
   margin-top: 50px;
   }
 
+   .rp1-img {
+  width: 428px;
+  height: 871px;
+    float: center;
+  }
+
+   .rp2-img {
+  width: 428px;
+  height: 871px;
+    float: center;
+  }
+
   .bc1-img {
-  width: 30%;
-  height: 30%;
-    float: left;
-  margin-right: 30px;
+  width: 277px;
+  height: 777px;
+    float: center;
   }
 
   .bc2-img {
@@ -115,10 +126,9 @@
   }
 
   .bc3-img {
-  width: 40%;
-  height: 40%;
+  width: 833px;
+  height: 266px;
     float: center;
-
   }
 
   .logo {
